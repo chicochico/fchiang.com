@@ -1,17 +1,22 @@
 ---
-layout: home
+layout: custom
 ---
-
 # Francisco Chiang
-
-| [Contact]() | [Github]() |[Linkedin]() | [Website]() |
+**Berlin, Germany**\
+[mail@fchiang.com](mailto:mail@fchiang.com)\
+[Github]()\
+[Linkedin]()
 
 ## Software Engineer
 BS in Computer Science, started the career building and designing software for the financial industry. Currently building automation tools, data infrastructures and pipelines for marketing analytics.
 
+## Skills
+**Tech**: Python, Elixir, Javascript, SQL, Pandas, Python Click, Pytest, Django, Python Requests, Fast API, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Tornado, QuickFIX, Postgres, Bootstrap\
+**Engineering**: Software Design and Engineering , Data Engineering, Agile Development\
+**Languages**: English, Portuguese, Spanish and Chinese
+
 ## Experience
-**Smava GmbH, Berlin DE**\
-**Sep 2018 - March 2022 • Software/Data Engineer**\
+**Sep 2018 - March 2022 • Software/Data Engineer at Smava GmbH, Berlin DE**\
 Applying tech and engineering to solve marketing problems.
 - Data pipelines for marketing data processing using Python, Docker, Airflow and SQL
 - Automation tools with Python, Django, Postgres deployed to Kubernetes and AWS with Terraform
@@ -39,10 +44,3 @@ Design and implementation of B2B forex trading platform.
 - Undergraduate research: Web technologies applied in education
 - Internship: Interactive web video player for applications in language learning
 - Final paper: Signal Processing for Guitar Music Transcription
-
-## Skills
-**Tech**: Python, Elixir, Javascript, SQL, Pandas, Python Click, Pytest, Django, Python Requests, Fast API, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Tornado, QuickFIX, Postgres, Bootstrap
-
-**Engineering**: Software Design and Engineering , Data Engineering, Agile Development
-
-**Languages**: English, Portuguese, Spanish and Chinese
