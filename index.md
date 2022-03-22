@@ -1,11 +1,12 @@
 ---
 layout: custom
+title: Resume
+permalink: /
 ---
 # Francisco Chiang
 **Berlin, Germany**\
 [mail@fchiang.com](mailto:mail@fchiang.com)\
-[Github]()\
-[Linkedin]()
+[www.fchiang.com](https://www.fchiang.com)
 
 ## Software Engineer
 BS in Computer Science, started the career building and designing software for the financial industry. Currently building automation tools, data infrastructures and pipelines for marketing analytics.
@@ -16,12 +17,13 @@ BS in Computer Science, started the career building and designing software for t
 **Languages**: English, Portuguese, Spanish and Chinese
 
 ## Experience
-**Sep 2018 - March 2022 • Software/Data Engineer at Smava GmbH, Berlin DE**\
+**Smava GmbH, Berlin DE**\
+**Sep 2018 - March 2022 • Software/Data Engineer**\
 Applying tech and engineering to solve marketing problems.
+- Product Owner and Tech Lead for the Marketing Tech team
 - Data pipelines for marketing data processing using Python, Docker, Airflow and SQL
 - Automation tools with Python, Django, Postgres deployed to Kubernetes and AWS with Terraform
 - Deployment of data infrastructures to support marketing analytics: Airflow, Superset
-- Product Owner and Tech Lead for the Marketing Tech team
 
 **Udacity, Mountain View CA**\
 **Mar 2018 - Jun • 2018 Mentor and Project Reviewer**\

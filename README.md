@@ -1,6 +1,6 @@
 # fchiang.com
 
-The code for my website using jekyll.
+The code for my website built with jekyll.
 
 ## Running locally
 Build:
