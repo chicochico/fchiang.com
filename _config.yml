@@ -12,7 +12,7 @@ description: Francisco's website.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
-  skin: classic
+  skin: solarized
   date_format: "%b %-d, %Y"
 
   social_links:

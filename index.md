@@ -6,7 +6,7 @@ permalink: /
 # Francisco Chiang
 **Berlin, Germany**\
 [mail@fchiang.com](mailto:mail@fchiang.com)\
-[Website](https://www.fchiang.com) | [Linkedin](https://www.linkedin.com/in/francisco-chiang/) | [Github](https://github.com/chicochico) | [PGP](pgp.txt)
+[Website](https://www.fchiang.com) • [Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](pgp.txt)
 
 ## Software Engineer
 BS in Computer Science, started the career building and designing software for the financial industry. Currently building automation tools, data infrastructures and pipelines for marketing analytics.
