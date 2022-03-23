@@ -1,6 +1,6 @@
 ---
 layout: custom
-title: Resume
+title: Francisco Chiang
 permalink: /
 ---
 # Francisco Chiang
