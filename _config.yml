@@ -5,10 +5,10 @@ plugins:
 remote_theme: jekyll/minima
 
 title: Francisco Chiang
+description: Francisco's Website
 author:
   name: Francisco Chiang
   email: mail@fchiang.com
-description: null
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
