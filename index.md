@@ -9,7 +9,7 @@ permalink: /
 [mail@fchiang.com](mailto:mail@fchiang.com)\
 [Website](https://www.fchiang.com) • [Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](pgp.txt)
 
-With BS in Computer Science, started the career building a FOREX trading platform for an exchange bank, to facilitate international business in Brazil. Worked in a German loan comparison platform, scaling marketing with technology, by building automation tools to automatically optimize campaigns, infrastructures and data pipelines to ingest and process customer journey and online marketing data. Currently working at a German bank helping democratize financial markets.
+With a BS in Computer Science, started the career building a FOREX trading platform for an exchange bank to facilitate international business in Brazil. Worked in a German loan comparison platform, scaling marketing with technology, building automation tools to automatically optimize campaigns, creating infrastructures and pipelines to ingest and process customer journey and online marketing data. Currently working at a German bank with a mission to democratize financial markets.
 
 ## Skills
 **Tech**: Python, Elixir, Javascript, SQL, Pandas, Python Click, Pytest, Django, Python Requests, Fast API, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Tornado, QuickFIX, Postgres, Bootstrap\
