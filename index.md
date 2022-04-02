@@ -3,13 +3,13 @@ layout: custom
 title: Francisco Chiang
 permalink: /
 ---
+
 # Francisco Chiang
 **Berlin, Germany**\
 [mail@fchiang.com](mailto:mail@fchiang.com)\
 [Website](https://www.fchiang.com) • [Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](pgp.txt)
 
-## Software Engineer
-BS in Computer Science, started the career building and designing software for the financial industry. Currently building automation tools, data infrastructures and pipelines for marketing analytics.
+With BS in Computer Science, started the career building a FOREX trading platform for an exchange bank, to facilitate international business in Brazil. Worked in a German loan comparison platform, scaling marketing with technology, by building automation tools to automatically optimize campaigns, infrastructures and data pipelines to ingest and process customer journey and online marketing data. Currently working at a German bank helping democratize financial markets.
 
 ## Skills
 **Tech**: Python, Elixir, Javascript, SQL, Pandas, Python Click, Pytest, Django, Python Requests, Fast API, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Tornado, QuickFIX, Postgres, Bootstrap\
@@ -17,6 +17,10 @@ BS in Computer Science, started the career building and designing software for t
 **Languages**: English, Portuguese, Spanish and Chinese
 
 ## Experience
+**Trade Republic Bank GmbH, Berlin DE**\
+**Apr 2022 - Present • Full stack Software Engineer**\
+Supporting growth as part of the Growth team.
+
 **Smava GmbH, Berlin DE**\
 **Sep 2018 - March 2022 • Software/Data Engineer**\
 Applying tech and engineering to solve marketing problems.
@@ -26,7 +30,7 @@ Applying tech and engineering to solve marketing problems.
 - Deployment of data infrastructures to support marketing analytics: Airflow, Superset
 
 **Udacity, Mountain View CA**\
-**Mar 2018 - Jun • 2018 Mentor and Project Reviewer**\
+**Mar 2018 - Jun 2018 • Mentor and Project Reviewer**\
 Mentor and Project reviewer for students of Flying Car Nano-degree course.
 
 **Spetcial Inc, San Francisco CA**\
