@@ -8,6 +8,13 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        {% if page.avatar %}
+          {% if page.avatar_in_print %}
+            <img src={{ page.avatar }} alt="my photo" class="avatar" itemprop="image" />
+          {% else %}
+            <img src={{ page.avatar }} alt="my photo" class="avatar no-print" itemprop="image" />
+          {% endif %}
+        {% endif %}
         {{ content }}
       </div>
     </main>

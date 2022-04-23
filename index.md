@@ -1,6 +1,8 @@
 ---
 layout: custom
 title: Francisco Chiang
+avatar: assets/img/avatar.jpg
+avatar_in_print: true
 permalink: /
 ---
 
