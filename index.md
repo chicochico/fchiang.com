@@ -7,7 +7,7 @@ permalink: /
 # Francisco Chiang
 **Berlin, Germany**\
 [mail@fchiang.com](mailto:mail@fchiang.com)\
-[Website](https://www.fchiang.com) • [Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](pgp.txt)
+[Website](https://www.fchiang.com) • [Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](https://github.com/chicochico.gpg)
 
 With a BS in Computer Science, started the career building a FOREX trading platform for an exchange bank to facilitate international business in Brazil. Worked in a German loan comparison platform, scaling marketing with technology, building automation tools to automatically optimize campaigns, creating infrastructures and pipelines to ingest and process customer journey and online marketing data. Currently working at a German bank with a mission to democratize financial markets.
 
