@@ -15,15 +15,12 @@ Then worked at Smava GmbH as part of the Marketing Tech team bringing transparen
 
 ## Experience
 ### Trade Republic Bank GmbH, Berlin DE
-**Apr 2023 - Present • Software Engineer:** Automating deployments and creating internal tooling for the engineering organization as part of the Developer Experience team within Platform Engineering.  
+**Apr 2023 - Present • Software Engineer:** Creating fully automated CI/CD pipelines and creating internal tooling for the engineering organization as part of the Developer Experience team within Platform Engineering.  
 
 **Apr 2022 - March 2023 • Data Engineer:** Creating event streaming pipelines as part of the Marketing Tech team within growth, to measure metrics on customer journeys, and enabling personalized engagement campaigns.
 
 ### Smava GmbH, Berlin DE
-**Sep 2018 - March 2022 • Software and Data Engineer:** Applying engineering in efficient marketing spend:
-- Data pipelines for marketing data processing using Python, Docker, Airflow and SQL
-- Automation tools with Python, Django, Postgres deployed to Kubernetes and AWS with Terraform
-- Deployment of data infrastructures to support marketing analytics: Airflow, Superset
+**Sep 2018 - March 2022 • Tech Lead Marketing Tech:** Applying engineering in efficient marketing spend, creating platforms and tools to measure and control spend across multiple marketing channels, such as SEM, Display, CRM, Social Networks and including offline campaigns.
 
 ### Udacity, Mountain View CA
 **Mar 2018 - Jun 2018 • Mentor and Project Reviewer:** Mentor and Project reviewer for students of Flying Car Nano-degree, where students learn to build autonomous qadrotors flying systems.
