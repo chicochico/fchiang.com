@@ -5,48 +5,38 @@ permalink: /
 ---
 
 # Francisco Chiang
-**Berlin, Germany**\
-[mail@fchiang.com](mailto:mail@fchiang.com)\
-[Website](https://www.fchiang.com) • [Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](https://github.com/chicochico.gpg)
+**Berlin, Germany**  
+[mail@fchiang.com](mailto:mail@fchiang.com)  
+[Linkedin](https://www.linkedin.com/in/francisco•chiang/) • [Github](https://github.com/chicochico) • [PGP](https://github.com/chicochico.gpg)
 
-With a BS in Computer Science, started the career building a FOREX trading platform for an exchange bank to facilitate international business in Brazil. Worked in a German loan comparison platform, scaling marketing with technology, building automation tools to automatically optimize campaigns, creating infrastructures and pipelines to ingest and process customer journey and online marketing data. Currently working at a German bank with a mission to democratize financial markets.
-
-## Skills
-**Tech**: Python, Elixir, Javascript, SQL, Pandas, Python Click, Pytest, Django, Python Requests, Fast API, Docker, Kubernetes, AWS, Airflow, Superset, Git, CI/CD, Terraform, Tornado, QuickFIX, Postgres, Bootstrap\
-**Engineering**: Software Design and Engineering , Data Engineering, Agile Development\
-**Languages**: English, Portuguese, Spanish and Chinese
+Software Engineer with experience in financial and tech industries, currently working at Trade Republic Bank GmbH with a mission to make saving and investing accessible to everyone.
+Started the carrer building a B2B FOREX trading platform in MSBANK enabling international trade and investing in Brazil.
+Then worked at Smava GmbH as part of the Marketing Tech team bringing transparency to the loan market in Germany.
 
 ## Experience
-**Trade Republic Bank GmbH, Berlin DE**\
-**Apr 2022 - Present • Full stack Software Engineer**\
-Supporting growth as part of the Growth team.
+### Trade Republic Bank GmbH, Berlin DE
+**Apr 2023 - Present • Software Engineer:** Automating deployments and creating internal tooling for the engineering organization as part of the Developer Experience team within Platform Engineering.  
 
-**Smava GmbH, Berlin DE**\
-**Sep 2018 - March 2022 • Software/Data Engineer**\
-Applying tech and engineering to solve marketing problems.
-- Product Owner and Tech Lead for the Marketing Tech team
+**Apr 2022 - March 2023 • Data Engineer:** Creating event streaming pipelines as part of the Marketing Tech team within growth, to measure metrics on customer journeys, and enabling personalized engagement campaigns.
+
+### Smava GmbH, Berlin DE
+**Sep 2018 - March 2022 • Software and Data Engineer:** Applying engineering in efficient marketing spend:
 - Data pipelines for marketing data processing using Python, Docker, Airflow and SQL
 - Automation tools with Python, Django, Postgres deployed to Kubernetes and AWS with Terraform
 - Deployment of data infrastructures to support marketing analytics: Airflow, Superset
 
-**Udacity, Mountain View CA**\
-**Mar 2018 - Jun 2018 • Mentor and Project Reviewer**\
-Mentor and Project reviewer for students of Flying Car Nano-degree course.
+### Udacity, Mountain View CA
+**Mar 2018 - Jun 2018 • Mentor and Project Reviewer:** Mentor and Project reviewer for students of Flying Car Nano-degree, where students learn to build autonomous qadrotors flying systems.
 
-**Spetcial Inc, San Francisco CA**\
-**May 2016 - Dec 2017 • Software Engineer**\
-Full stack development with Elixir and React/Native.
+### Spetcial Inc, San Francisco CA
+**May 2016 - Dec 2017 • Software Engineer:** Developing a social network for pet owners, fostering community, connection and interactions in person.
 
-**MSBANK, Curitiba PR**\
-**Jan 2015 - Mar 2017 • Software Engineer**\
-Design and implementation of B2B forex trading platform.
-- Trading platform with order execution in multiple brokers using: Python Tornado, QuickFIX, Postgres, Bootstrap, HTML5 and Javascript
-- Back-office tool for monitoring and controlling the platform
-- Market data redistribution API
+### MSBANK, Curitiba PR
+**Jan 2015 - Mar 2017 • Software Engineer:** Design and implementation of B2B FOREX (Foreign Exchange) trading platform. Back-office tool for monitoring and controlling the platform and a market data redistribution API.
 
 ## Education
-**UNIOESTE, Foz do Iguaçu PR**\
+### UNIOESTE, Foz do Iguaçu PR
 **2010 - 2014 • Bachelor of Computer Science**
 - Undergraduate research: Web technologies applied in education
-- Internship: Interactive web video player for applications in language learning
+- Internship DETAE: Building interactive web video player for applications in language learning
 - Final paper: Signal Processing for Guitar Music Transcription
