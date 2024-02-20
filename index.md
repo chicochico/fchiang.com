@@ -34,7 +34,7 @@ Then worked at Smava GmbH as part of the Marketing Tech team bringing transparen
 
 ### MSBANK, Curitiba PR
 **Jan 2015 - Mar 2017 • Software Engineer:** Creating a B2B FOREX trading platform, with a back-office dashboard for reporting and controlling of the platform, in addition to developing a market data distribution API.  
-*Stack*: Python, Tornado, Postgres, FIX, HTML, CSS and jQuery.
+*Stack*: Python, Tornado, FIX, Javascript, Postgres, HTML, CSS and jQuery.
 
 ## Education
 ### UNIOESTE, Foz do Iguaçu PR
