@@ -6,8 +6,7 @@ permalink: /
 
 # Francisco Chiang
 **Berlin, Germany**  
-[mail@fchiang.com](mailto:mail@fchiang.com)  
-[Linkedin](https://www.linkedin.com/in/francisco-chiang/) • [Github](https://github.com/chicochico) • [PGP](https://github.com/chicochico.gpg)
+[Linkedin](https://www.linkedin.com/in/francisco-chiang/) • [Github](https://github.com/chicochico) • [PGP](https://github.com/chicochico.gpg) • [Contact](mailto:08_flax.biter@icloud.com)
 
 Software Engineer with experience in financial and tech industries, currently working at Trade Republic Bank GmbH with a mission to make saving and investing accessible to everyone.
 Started the carrer building a B2B FOREX trading platform in MSBANK enabling international trade and investing in Brazil.
