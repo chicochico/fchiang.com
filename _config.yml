@@ -2,7 +2,7 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@10124515953527c8990a2de99ae4ddb2a81ffee3
 
 title: Francisco Chiang
 description: Francisco's Website
@@ -12,9 +12,8 @@ author:
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
-  skin: solarized
+  skin: classic
   date_format: "%b %-d, %Y"
 
   social_links:
-    github:  chicochico
-    linkedin: francisco-chiang
+    - { platform: github,  user_url: "https://github.com/chicochico" }
