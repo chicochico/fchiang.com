@@ -20,7 +20,7 @@ Software Engineer with experience in finance and tech, currently working at Trad
 
 ### Smava GmbH, Berlin DE
 **Sep 2018 - March 2022 • Tech Lead Marketing Tech:** Led engineering efforts in efficient marketing spending, building platforms and tools to measure and drive spend across multiple marketing channels such as SEM, Display, CRM, Affiliate, Social Networks, and offline campaigns.  
-*Stack*: Airflow, Kubernetes, AWS, Snowflake, Apache Superset and Python.
+*Stack*: Airflow, Kubernetes, AWS, Snowflake, Apache Superset, and Python.
 
 ### Udacity, Mountain View, CA
 **Mar 2018 - Jun 2018 • Mentor and Project Reviewer:** Mentored students and reviewed projects for the Flying Car Nano-degree, where students learn to build autonomous quadrotors flying systems.
