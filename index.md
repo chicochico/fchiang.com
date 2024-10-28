@@ -12,7 +12,7 @@ Software Engineer with experience in finance and tech, currently working at Trad
 
 ## Experience
 ### Trade Republic Bank GmbH, Berlin DE
-**Apr 2023 - Present • Software Engineer:** Developing CI/CD pipelines for fully automated deployments and developing tooling to improve the developer experience of the engineering organization as part of the Developer Experience team.  
+**Apr 2023 - Present • Software Engineer:** Developing CI/CD pipelines for fully automated deployments, and developing tooling to improve the developer experience of the engineering organization as part of the Developer Experience team.  
 *Stack*: AWS, Kubernetes, ArgoCD, Terraform, GitHub Actions, Airflow.
 
 **Apr 2022 - March 2023 • Data Engineer:** Developed event streaming pipelines to measure customer journey KPIs and enable personalized marketing campaigns as part of the Marketing Tech team.  
