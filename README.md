@@ -1,23 +1,15 @@
 # fchiang.com
 
-The code for my [website](https://www.fchiang.com) built with jekyll.
+The code for my [website](https://www.fchiang.com), a single static `index.html`.
 
-## Running locally
-Build:
-```
-docker build -t jekyll .
-```
+## Editing
+Edit `index.html` directly — content and styles are inline, no build step.
 
-Run:
+## Viewing locally
+Open `index.html` in a browser, or serve the folder:
 ```
-docker run --rm -p 4000:4000 --entrypoint bash jekyll -c \
-'bundler exec jekyll serve -H 0.0.0.0 -P 4000'
+python3 -m http.server 4000
 ```
+Then visit [localhost:4000](http://localhost:4000).
 
-For development with live reload:
-```
-docker run -it --rm -v $(pwd):/app -p 4000:4000 -p 35729:35729 --entrypoint bash jekyll -c \
-'bundler exec jekyll serve -H 0.0.0.0 -P 4000 --livereload'
-```
-
-See the preview [here](localhost:4000).
+Deployed via GitHub Pages (`.nojekyll` disables Jekyll processing).
